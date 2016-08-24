@@ -1,0 +1,5 @@
+<!--https://github.com/andremion/Floating-Navigation-View-->
+
+The purpose of the library is to create a floating button that opens a custom nav drawer. There is nothing more to say about this library.
+
+I have used the library to store custom menu items that would each link to some unique thing. I thought that this would be useful for storing saved searches to be revisited later.
